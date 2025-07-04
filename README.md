@@ -1,6 +1,4 @@
-Here is a professional, clean `README.md` suitable for submission or deployment:
 
----
 
 # Contract Clause Classification System
 
