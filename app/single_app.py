@@ -8,8 +8,8 @@ from sentence_transformers import SentenceTransformer, util
 from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
 
 # 🔹 Load classification model & tokenizer
-model = AutoModelForSequenceClassification.from_pretrained("models/clause_classifier")
-tokenizer = AutoTokenizer.from_pretrained("models/clause_classifier")
+model = AutoModelForSequenceClassification.from_pretrained("smihira/clause_classifier")
+tokenizer = AutoTokenizer.from_pretrained("smihira/clause_classifier")
 classifier = pipeline("text-classification", model=model, tokenizer=tokenizer, return_all_scores=True)
 
 # 🔹 Load Sentence-BERT for similarity
