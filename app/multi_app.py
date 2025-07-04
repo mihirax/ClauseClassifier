@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer, util
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # ✅ Load multilabel model
-model_path = "models/multi-clause-classifier"
+model_path = "smihira/multi-clause-classifier"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForSequenceClassification.from_pretrained(model_path)
 
