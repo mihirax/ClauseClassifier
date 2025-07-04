@@ -1,0 +1,6 @@
+Clause,Predicted Labels,Confidences
+"Made effective March 10, 2025, between NovaBio and HelixPath Research.",license grant,0.49
+"NovaBio grants HelixPath a royalty-free, internal-use license for patented biomedical software.",license grant,0.98
+"HelixPath commits to a minimum investment of $200,000 per year under this license.",minimum commitment,0.97
+Governing law: State of Massachusetts.,governing law,0.96
+"In the event of termination, HelixPath must return all licensed assets and delete derivative works.",post-termination services,0.97

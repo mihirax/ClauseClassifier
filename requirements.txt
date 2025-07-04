@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+torch
+gradio
+pdfplumber
+python-docx
+pandas
+huggingface_hub

@@ -1,0 +1,6 @@
+Clause,Predicted Labels,Confidences
+"This Software License Agreement is made on March 1, 2025, between CloudNova Inc. and ByteWare Ltd.",license grant,0.98
+"CloudNova hereby grants ByteWare a non-exclusive, non-transferable license to use the product internally within the Asia-Pacific region.",license grant,0.98
+Each party must maintain professional liability insurance throughout the term of the agreement.,insurance,0.98
+This Agreement shall be governed by and construed under the laws of the State of Washington.,governing law,0.97
+"The Licensee agrees to a minimum purchase of 1,000 units annually.",minimum commitment,0.97

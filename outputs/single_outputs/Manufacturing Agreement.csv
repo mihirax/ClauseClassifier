@@ -1,0 +1,6 @@
+Clause,Predicted Label,Confidence
+"Between Orion Components and Neutronix LLC, effective January 1, 2025.",license grant,0.475
+Orion shall not assign this Agreement or any of its obligations to third parties without Neutronix’s written consent.,anti-assignment,0.998
+Each party agrees to allow annual audits related to compliance and material sourcing.,audit rights,0.995
+"Cap on liability shall not exceed the contract value of $1,000,000.",cap on liability,0.996
+The Agreement may be terminated for convenience by either party with a 45-day notice period.,minimum commitment,0.854

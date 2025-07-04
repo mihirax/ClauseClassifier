@@ -1,0 +1,6 @@
+Clause,Predicted Labels,Confidences
+"This Distribution Agreement is entered into by Meditek Pharma and Genomix Inc., effective April 15, 2025.","license grant, revenue/profit sharing","0.16, 0.10"
+Meditek agrees to share 5% of net revenue from licensed products with Genomix for every quarter.,revenue/profit sharing,0.94
+"Post-termination, Genomix shall assist in the transfer of licensing rights to any successor.",post-termination services,0.97
+The Agreement shall remain in effect for 2 years and may be terminated for convenience by either party with 30 days' written notice.,"minimum commitment, termination for convenience","0.10, 0.88"
+Governing law: State of New York.,governing law,0.96

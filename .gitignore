@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Gradio flagged data
+.gradio/
+
+# Hugging Face cache
+~/.cache/huggingface/
+*.safetensors
+*.bin
+
+# PyTorch checkpoint files
+*.pt
+*.pth
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Model directories if not pushed to Hugging Face Hub
+models/

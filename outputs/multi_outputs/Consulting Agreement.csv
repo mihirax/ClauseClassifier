@@ -1,0 +1,6 @@
+Clause,Predicted Labels,Confidences
+"This Agreement is made between QuantumData Solutions and IntelliTech Corp. on February 12, 2025.",revenue/profit sharing,0.21
+QuantumData shall maintain general liability insurance not less than $2 million.,insurance,0.97
+The Agreement is governed by the laws of the State of Texas.,governing law,0.97
+"Both parties agree to post-termination support, including documentation transfer and final invoicing for 30 days after termination.",post-termination services,0.98
+Revenue will be shared at a 70:30 split for all billable consulting services.,revenue/profit sharing,0.94
